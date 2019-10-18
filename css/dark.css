@@ -1,0 +1,402 @@
+    /**
+    CSS DARK UA CLOUD
+    @author lscofield
+**/
+    /* NO AUTENTICADO -> INICIO */
+    
+    .fondo-ua {
+        background: #090a0f !important;
+    }
+    
+    body #pie {
+        background-color: black;
+        color: white;
+    }
+    
+    body {
+        background: #090a0f !important;
+    }
+    
+    #cabecera #uacloud,
+    #cabecera #menu,
+    #cabecera #menuespecifico,
+    #cabecera #uacloudmovil,
+    #cabecera #menuespecmovil,
+    #cabecera #uacloud a,
+    #cabecera #menu a,
+    #cabecera #menuespecifico a,
+    #cabecera #uacloudmovil a,
+    #cabecera #menuespecmovil a,
+    #cabecera #uacloud .dropdownbloque .dropdown-lista,
+    #cabecera #uacloudmovil .dropdownbloque .dropdown-lista {
+        background-color: black !important;
+    }
+    
+    #cabecera #uacloud .izquierda .cabbloque,
+    #cabecera #uacloudmovil .izquierda .cabbloque {
+        border: none !important;
+    }
+    
+    #cabecera #uacloud .derecha .cabbloque {
+        border: none !important;
+    }
+    
+    #cabecera #uacloud .derecha .cabbloque {
+        border: none !important;
+    }
+    
+    .aplicacion.col-md-4 .ficha .info-ficha,
+    .aplicacion.col-md-12.sinavisos .ficha .info-ficha,
+    .aplicacion.col-md-8.sinavisos .ficha .info-ficha,
+    .aplicaciones.modo-xs .aplicacion.col-md-12 .ficha .info-ficha,
+    .aplicaciones.modo-xs .aplicacion.col-md-8 .ficha .info-ficha {
+        background-color: black;
+    }
+    
+    .ficha .cabecera-ficha {
+        background: black;
+    }
+    
+    .info-ficha a {
+        color: white;
+    }
+    
+    .ficha .btn {
+        border: solid white 1px;
+        background-color: #090a0f;
+    }
+    /* PAGINA LOGIN */
+    
+    #cuerpo {
+        background: #090a0f;
+    }
+    
+    .separador-caja {
+        background: #090a0f;
+        box-shadow: none;
+        height: 0px;
+    }
+    
+    .cabecera-caja,
+    .contenido-caja {
+        background: #090a0f;
+    }
+    
+    .contenido-caja .contenido-caja-boton button {
+        background: transparent;
+        border: solid white 1px;
+        border-radius: 5px;
+    }
+    
+    .sugerencias,
+    .telefono {
+        background: white;
+        padding: 10px;
+        border-radius: 15px;
+    }
+    
+    .telefono {
+        color: black !important;
+    }
+    
+    .sugerencias a {
+        color: black;
+    }
+    
+    #ayuda {
+        background: #090a0f;
+        color: white !important;
+    }
+    /* AUTENTICADO -> INICIO */
+    
+    #cabecera #uacloud,
+    #cabecera #menu,
+    #cabecera #menuespecifico,
+    #cabecera #uacloudmovil,
+    #cabecera #menuespecmovil,
+    #cabecera #uacloud a,
+    #cabecera #menu a,
+    #cabecera #menuespecifico a,
+    #cabecera #uacloudmovil a,
+    #cabecera #menuespecmovil a,
+    #cabecera #uacloud .dropdownbloque .dropdown-lista,
+    #cabecera #uacloudmovil .dropdownbloque .dropdown-lista {
+        background-color: black !important;
+    }
+    
+    .fondo-ua-movil {
+        background-color: #090a0f !important;
+    }
+    
+    div.aplicacion.mini i.iconua-app.fondodocencia,
+    div.aplicacion.mini i.iconua-app.fondoservicios,
+    div.aplicacion.mini i.iconua-app.fondoinvestigacion,
+    div.aplicacion.mini i.iconua-app.fondogestion,
+    div.aplicacion.mini i.iconua-app.fondootrosServicios,
+    div.aplicacion.mini i.iconua-app.fondocampusVirtual,
+    div.aplicacion.mini i.iconua-app.fondomoodle,
+    div.aplicacion.mini i.iconua-app.fondouaproject {
+        color: black;
+    }
+    
+    a span.nombreAppIcono {
+        color: white;
+    }
+    
+    .form-control {
+        background-color: black !important;
+        border: none !important;
+        color: white !important;
+    }
+    
+    .card-body {
+        background-color: black !important;
+        color: white !important;
+    }
+    
+    .card {
+        border: none !important;
+    }
+    
+    .card-body a,
+    #opcionesConfiguracion a {
+        color: white !important;
+    }
+    
+    #opcionesConfiguracion a:hover {
+        text-decoration: none;
+    }
+    /* MATERIALES */
+    
+    #subcabecera #listaSubMenusCabecera,
+    #cabeceraSuperior,
+    .apartadosCabeceraSuperior,
+    #usuario,
+    .wrapperCabeceraFlotado ul li .enlaceMenuAccesible,
+    #cabeceraSuperior #listaMenusCabecera {
+        background: black;
+    }
+    
+    #cabeceraIzquierda,
+    #usuario,
+    #ayudaCabecera,
+    #configuracionCabecera,
+    #partesCabecera {
+        border: none;
+    }
+    
+    .tabla {
+        color: white;
+    }
+    
+    footer {
+        color: white;
+    }
+    
+    .breadcrumb,
+    .bordeIzquierdo {
+        background-color: black !important;
+    }
+    
+    .fila:hover {
+        background: #333333 !important;
+    }
+    
+    .filaseleccionado.par,
+    .filaseleccionado.impar,
+    .filacompartido.par,
+    .penddescargar.par,
+    .filacompartido.impar,
+    .penddescargar.impar,
+    .filacompartido.filaseleccionado.impar,
+    .penddescargar.filaseleccionado.impar {
+        background: none repeat scroll 0 0 #333333;
+    }
+    
+    #botonbuscar {
+        background-color: transparent;
+        border: solid white 1px;
+    }
+    
+    .fila {
+        border: none;
+    }
+    
+    .seleccionable,
+    #cursoaca,
+    #cursotit,
+    #asigtit,
+    .sangria,
+    #nombrecabeceraOptativa {
+        color: white !important;
+    }
+    
+    #matantiguos {
+        background: black !important;
+        color: white;
+        border: solid white 1px;
+    }
+    
+    #wrapperSubcabeceras #cabeceraTercera.aclara .listaOptativaCabecera {
+        background: #090a0f;
+        border: none;
+        color: white;
+    }
+    
+    #cabeceraTercera .opcactiv {
+        background: transparent !important;
+    }
+    
+    #filtro,
+    #opcionesbusc,
+    .dropdown-menu,
+    #imagenbuscalu,
+    #menuUsuario ul {
+        background: black !important;
+        border: none;
+        color: white;
+    }
+    
+    #wrapperSubcabeceras #cabeceraTercera li {
+        border: none;
+    }
+    
+    .modal-content {
+        background: #090a0f;
+    }
+    
+    .modal-header {
+        color: white;
+        border: none;
+    }
+    
+    .modal-header .close {
+        color: white;
+        opacity: 7;
+    }
+    
+    .dropdown-menu>li>a,
+    .icono-uadrive-arrow-64:before,
+    .leyenda {
+        color: white;
+    }
+    
+    .dropdown-menu>li>a:hover {
+        background: #333333 !important;
+        color: white;
+    }
+    
+    .panel-default>.panel-heading {
+        color: white;
+        background-color: black;
+        border: none;
+    }
+    
+    #panelbuscavanz .panel-body #contenedorpanel {
+        background-color: #090a0f;
+        color: white;
+    }
+    /* ANUNCIOS */
+    
+    .well {
+        background: black;
+        border: none;
+    }
+    
+    .lista {
+        background: black !important;
+    }
+    
+    .bloque {
+        background: black !important;
+        border: none;
+        box-shadow: none;
+    }
+    
+    .bloquetitulo {
+        color: white !important;
+    }
+    
+    .collapse {
+        color: #c9c9c9 !important;
+    }
+    
+    .anuncio {
+        color: black !important;
+        background-color: black !important;
+    }
+    /* ANUNCIOS -> NOTIFICACIONES */
+    
+    #centroNotificaciones {
+        background: black;
+        border: solid black 1px;
+    }
+    
+    #centroNotificaciones .panel.docencia .panel-heading {
+        background: black;
+    }
+    
+    #centroNotificaciones .panel-body li {
+        border: none;
+    }
+    
+    #centroNotificaciones .panel .panel-body .titulo,
+    #centroNotificaciones .panel-body a {
+        background: #090a0f !important;
+        color: #c9c9c9;
+    }
+    
+    .textoNotificacion {
+        color: gray;
+    }
+    
+    #centroNotificaciones .panel.docencia .panel-body a .borde {
+        background: black;
+    }
+    
+    #ventanaWrapperApps {
+        background: black;
+        color: white;
+    }
+    /** MATRICULA **/
+    
+    .panel-heading {
+        background: black !important;
+        border: none !important;
+    }
+    
+    #collapseExpMat,
+    .table-striped>tbody>tr,
+    .table-striped>tbody>tr {
+        background-color: #090a0f !important;
+    }
+    
+    .table-striped>tbody>tr:hover,
+    .table-striped>tbody>tr:hover {
+        background-color: #333333 !important;
+    }
+    
+    .panel-title,
+    .glyphicon-chevron-down:before,
+    .glyphicon-chevron-right:before,
+    .modal-body {
+        color: white;
+    }
+    
+    .table>tbody>tr>td,
+    .table>tbody>tr>th,
+    .table>tfoot>tr>td,
+    .table>tfoot>tr>th,
+    .table>thead>tr>td,
+    .table>thead>tr>th {
+        border: none !important;
+    }
+    
+    h1,
+    h2 {
+        color: white;
+    }
+    
+    #cabecera.gestion #menu .derecha .cabbloque {
+        border: none;
+    }

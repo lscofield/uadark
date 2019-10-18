@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "name": "Dark UA",
+    "version": "1.0.0",
+    "description": "UA Cloud modo oscuro",
+    "icons": {
+        "128": "icons/icon_128.png"
+    },
+    "browser_action": {
+        "default_icon": "icons/icon.png"
+    },
+    "web_accessible_resources": [
+        "css/dark.css"
+    ],
+    "background": {
+        "scripts": [
+            "js/background.js"
+        ]
+    },
+    "permissions": [
+        "https://*.cpd.ua.es/*",
+        "tabs",
+        "activeTab"
+    ]
+}
